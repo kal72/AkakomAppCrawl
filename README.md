@@ -9,3 +9,5 @@ Kode untuk crawling akakom.ac.id
 Aplikasi ini di tujukan untuk pengambilan data dari website akakom (akakom.ac.id) yang kemudian untuk di distribusikan file JSON-nya
 
 Free To Code
+
+yes
